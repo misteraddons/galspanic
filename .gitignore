@@ -37,3 +37,5 @@ gal/*.fus
 gal/*.jed
 gal/*.pin
 
+img/.DS_Store
+.DS_Store
